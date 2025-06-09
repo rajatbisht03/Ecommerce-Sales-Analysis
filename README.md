@@ -75,7 +75,7 @@ Ecommerce-Sales-EDA/
 
 ## 🔗 Project Link
 
-📌 [View on GitHub](https://github.com/rajatbisht03/Ecommerce-Sales-EDA)
+📌 [View on GitHub](https://github.com/rajatbisht03/Ecommerce-Sales-Analysis)
 
 ---
 
