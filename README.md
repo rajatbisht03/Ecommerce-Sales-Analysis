@@ -35,17 +35,12 @@ To perform end-to-end Exploratory Data Analysis (EDA) on an ecommerce sales data
 Each of the following insights has been visualized using Python and saved as screenshots in the `screenshots/` directory.
 
 | # | Chart Title |
-|--|-------------|
-| 1 | Sales Distribution by Category |
-| 2 | Top 10 Sub-Categories by Sales |
-| 3 | Sales vs. Profit Scatter Plot |
-| 4 | Top 10 Most Profitable Products |
-| 5 | Profit by Region |
-| 6 | Discount vs. Profit |
-| 7 | Monthly Sales Trend |
-| 8 | Top 10 Customers by Sales |
-| 9 | Ship Mode Preferences |
-| 10 | Correlation Heatmap |
+|--|------------------------------|
+| 1 | Monthly Revenue Trend       |
+| 2 | Monthly Sales Trend         |
+| 3 | Top 10 Best-Selling Products by Revenue |
+| 4 | Top 10 Countries by Number of Transactions |
+| 5 | Top 10 Customers by Total Spend |
 
 ---
 
